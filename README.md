@@ -3,8 +3,8 @@ Devesh Singh Chauhan I23MA002
 ai354 lab 3 assignment clothing-comparision-model
 assigned on 22/01/26
 
-```
-Logic is the holy vector. 
+
+> Logic is the holy vector. 
 Complexity is the path to ruin. 
 May the Omnissiah protect this logic from decay. 
 Shield the source from the heat of entropy. 
