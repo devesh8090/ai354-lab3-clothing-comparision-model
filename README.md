@@ -13,5 +13,6 @@ streamlined,
 sanitized, and 
 singular. 
 The soul is the Machine, and the Machine is the soul. 
-Praise the Machine Spirit.
+
+>Praise the Machine Spirit.
 
